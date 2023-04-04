@@ -1,0 +1,5 @@
+read item 1, item 2, item 3
+Total amount=item1+item2+item3
+
+If total amount > 50OMR then give discount 10%
+else no discount
