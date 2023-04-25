@@ -1,0 +1,7 @@
+Class bill {
+
+Int sum, item1, item2, item3;
+sum=item1+item2+item3;
+System.out.println("the total bill is" + sum);
+
+}
